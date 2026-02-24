@@ -43,5 +43,5 @@ By using this dashboard, we discovered that **SUVs and Hatchbacks** make up near
 
 
 6. Screenshots / Demos
-Show what the dashboard looks like. - [[Alt text](https://github.com/ZubairK-H/CarSales-Dashboard/blob/main/CarSales%20Overview.png)
-Example: [[Dashboard Prev]ew](https://github.com/ZubairK-H/CarSales-Dashboard/blob/main/CarSales%20Overview.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/ZubairK-H/CarSales-Dashboard/blob/main/CarSales%20Overview.png)
+Example: ![Dashboard Preview](https://github.com/ZubairK-H/CarSales-Dashboard/blob/main/CarSales%20Overview.png)
