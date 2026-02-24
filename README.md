@@ -40,3 +40,8 @@ Interactive Map: A regional map that lets you see which cities are hitting their
 
 The "So What?" (Impact & Insights)
 By using this dashboard, we discovered that **SUVs and Hatchbacks** make up nearly half of all revenue, and that **Pale White** is surprisingly the most sought-after color. These insights allow the dealership to stop guessing and start stocking the cars that customers actually want to buy.
+
+
+6. Screenshots / Demos
+Show what the dashboard looks like. - [[Alt text](https://github.com/username/repo/assets/image.png)
+Example: [[Dashboard Prev]ew](https://github.com/username/repo/assets/image.png).).
